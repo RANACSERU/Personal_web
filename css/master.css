@@ -1,0 +1,80 @@
+/* THIS is the css for head*/
+body{
+    background-image: url(../images/background.jpg); 
+        /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    
+    display: inline-block;
+	width: 100%;
+    margin-left: px;
+    box-shadow: 10px 10px 10px;
+    background-color: white;
+    
+} 
+
+
+/*.head {
+    
+    display: inline-block;
+	width: 80%;
+    margin-left: 80px;
+    box-shadow: 10px 10px 10px;
+} */
+
+.head ul li {
+    
+    float: left;
+    margin-left: 10px;
+    list-style: none;
+    margin-bottom: 10px;
+    
+    
+}
+.head ul li a{
+    text-decoration: none;
+    color: red;
+    margin-left: 55px;
+    font-size: 20px;
+    
+}
+.head ul li a:hover{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+
+
+/* THIS is the css for menu*/
+
+/* THIS is the css for body*/
+.body{ 
+    color: blue
+    
+}
+ 
+
+/* THIS is the css for footer*/
+.footer ul li {
+    float: left;
+    margin-left: 10px;
+    list-style: none;
+    
+    
+}
+
+.footer ul li a{
+  text-decoration: none;
+    color: red;
+    margin-left: 55px;
+    font-size: 20px;
+    padding-top: 100px;
+    
+    
+}
